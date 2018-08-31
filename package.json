@@ -109,7 +109,14 @@
     "extends": "eslint:recommended"
   },
   "stylelint": {
-    "extends": "stylelint-config-standard"
+    "extends": "stylelint-config-standard",
+    "rules": {
+      "at-rule-empty-line-before": null,
+      "no-empty-source": null,
+      "color-hex-length": null,
+      "font-family-no-missing-generic-family-keyword": null,
+      "declaration-colon-newline-after": null
+    }
   },
   "scripts": {
     "precommit": "lint-staged",
