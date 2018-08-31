@@ -1,0 +1,16 @@
+{
+  "messages": {
+    "en": {
+      "seed.containers.AppShell.header": "Welcome",
+      "seed.containers.Modal.close.button": "Close",
+      "seed.containers.Modal.errorHeader": "Error Header",
+      "seed.containers.Modal.close.buttonText": "Close"
+    },
+    "es": {
+      "seed.containers.AppShell.header": "Bienvenidos",
+      "seed.containers.Modal.close.button": "Cerrar",
+      "seed.containers.Modal.errorHeader": "Titulo Error",
+      "seed.containers.Modal.close.buttonText": "Cerrar"
+    }
+  }
+}
