@@ -1,6 +1,7 @@
 {
   "extends": ["plugin:react-app/recommended","react-app"],
   "rules": {
-    "react-app/jsx-a11y/href-no-hash": "off"
+    "react-app/jsx-a11y/href-no-hash": "off",
+    "jsx-a11y/href-no-hash": [0]
   }
 }
